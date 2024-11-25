@@ -21,8 +21,10 @@ images.
 
 3. Navigate to Directory: Move into the project directory.
 
-   `cd local-dining-guide`
+   ```bash
+   cd local-dining-guide
 
-4. Launch the Application: Open the index.html file in your web browser
+5. Launch the Application: Open the index.html file in your web browser
 
-   `open index.html`
+   ```bash
+   open index.html
