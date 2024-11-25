@@ -120,10 +120,13 @@ images.
 ## Installation
 
 1. Clone the Repository: Start by cloning this repository to your local machine.
-     `git clone https://github.com/yourusername/local-dining-guide.git`
 
-2. Navigate to Directory: Move into the project directory.
-    `cd local-dining-guide`
+   `git clone https://github.com/yourusername/local-dining-guide.git`
 
-3. Launch the Application: Open the index.html file in your web browser
-    `open index.html`
+3. Navigate to Directory: Move into the project directory.
+
+   `cd local-dining-guide`
+
+5. Launch the Application: Open the index.html file in your web browser
+
+   `open index.html`
