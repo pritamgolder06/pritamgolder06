@@ -1,4 +1,4 @@
-<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
+"""<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Pritam Golder 👋</h1>
 <h3 align="left">Trainee Software Engineer(AI) @ BJIT Ltd. | ICT Instructor @ BJET & BJIT Academy</h3>
 I'm a passionate Full Stack Web Developer from Bangladesh with over 10 years of experience in building web applications using PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, etc. I have a strong foundation in web techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
@@ -100,4 +100,30 @@ images.
 Installation
 1. Clone the Repository: Start by cloning this repository to your local machine.
 2. Navigate to Directory: Move into the project directory.
-3. Launch the Application: Open the index.html file in your web browser.
+3. Launch the Application: Open the index.html file in your web browser."""
+
+
+# Getting Started
+
+
+*Follow these steps to get Local Dining Guide up and running on your local machine.*
+
+## Prerequisites
+
+**Web Browser:** Ensure you have a modern web browser installed to access the Local Dining
+Guide interface.
+
+**Internet Connection:** A stable internet connection is required to fetch restaurant data and
+images.
+
+
+## Installation
+
+1. Clone the Repository: Start by cloning this repository to your local machine.
+     `git clone https://github.com/yourusername/local-dining-guide.git`
+
+2. Navigate to Directory: Move into the project directory.
+    `cd local-dining-guide`
+
+3. Launch the Application: Open the index.html file in your web browser
+    `open index.html`
