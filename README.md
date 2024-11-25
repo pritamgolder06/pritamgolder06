@@ -123,10 +123,10 @@ images.
 
    `git clone https://github.com/yourusername/local-dining-guide.git`
 
-3. Navigate to Directory: Move into the project directory.
+2. Navigate to Directory: Move into the project directory.
 
    `cd local-dining-guide`
 
-5. Launch the Application: Open the index.html file in your web browser
+3. Launch the Application: Open the index.html file in your web browser
 
    `open index.html`
