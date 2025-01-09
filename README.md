@@ -43,7 +43,7 @@ Feel free to explore my repositories and projects. I'm always excited to connect
 
 ## 📫 How to reach me
 <p align="left">
-<a href="https://x.com/GolderPritam" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/X_logo_2023.svg" alt="uks_77" height="30" width="40" /> </a>
+<a href="https://x.com/GolderPritam" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="uks_77" height="30" width="40" /> </a>
 <a href="https://www.linkedin.com/in/pritamgolder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pritam.golder.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uksaha" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/pritamgolder/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="uksaha" height="30" width="40" /> 
