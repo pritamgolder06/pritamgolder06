@@ -1,7 +1,35 @@
 <img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
-<h1>Hi there, I'm Ujjal K. Saha 👋</h1>
-<h3 align="left">Sr. Project Manager @ BJIT Ltd. | ICT Instructor @ BJET & BJIT Academy</h3>
-I'm a passionate Full Stack Web Developer from Bangladesh with over 10 years of experience in building web applications using PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, etc. I have a strong foundation in web techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
+<h1>Hi there, I'm Pritam Golder 👋</h1>
+<h3 align="left">Trainee Software Engineer(AI) @ BJIT Ltd.</h3>
+# Hi there! 👋  
+
+I'm a passionate **Computer Science graduate** and an aspiring **Machine Learning Engineer** from **Jashore**.  
+
+🌟 I specialize in exploring the fascinating intersection of programming and data to create impactful solutions using **machine learning** and **artificial intelligence**.  
+
+---
+
+## 🔍 What I Do  
+- Build and deploy **ML models** to solve real-world problems.  
+- Design and implement intelligent systems for **NLP**, **time series forecasting**, and embedding-based projects.  
+- Currently enhancing my skills in **transformer-based architectures** and advanced **NLP techniques**.
+
+---
+
+## 📚 Highlights  
+- Developed projects like a **Smile Classifier**, **Regression Models for Commute Analysis**, and more.  
+- Proficient with tools and frameworks like **PyTorch**, **scikit-learn**, **FastAPI**, and **SQLAlchemy**.  
+- Eager to contribute to **open-source projects** and collaborate with developers.  
+
+---
+
+## 🚀 Let's Connect!  
+Feel free to explore my repositories and projects. I'm always excited to connect with like-minded individuals and contribute to meaningful innovations.  
+
+---
+
+💡 **Fun Fact**: I believe in continuous learning and enjoy experimenting with new technologies and algorithms. Let's build something amazing together! 🎉
+
 
 ## 👨🏽‍💻 What I'm working on
 Currently, I am working on BJET Project (a Bangladesh Japan IT Engineer Training Program) as an ICT instructor, BJIT Academy (a global standard training program for fresh talent) as an instructor, as well as various software development projects at BJIT Limited as senior project manager. I'm responsible to provide technology training and manage software development projects.
